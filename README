@@ -1,1 +1,27 @@
 # Graphics Assignment1
+After installing OPENGL 3.0 
+just type ./sample3D to play the game
+
+My Scoring System
+shooting black increases points by 3
+shooting red,green decreases points by -3
+shooting 5 red,green will end the game
+catching a red or blue will make 5
+catching a black will end game.
+
+
+controls:-
+mouse click and drag
+mouse click and shooot
+mouse scroll
+cannon up and down (a and d)
+move it up and down (s and f)
+increase /decrease speed of fallign objects (n and m)
+left /right pan the sceen
+up and down will zoom the sceen
+shoot spacebar
+right mouse click and drag pan in pan out
+
+
+just type 'make'
+execute using './sample2D'
